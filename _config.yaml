@@ -1,7 +1,12 @@
+title: Personal Blog
+author:
+  name: "Diwas Sharma"
+  email: "diwasblack@gmail.com"
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections: true
 include:
 theme: minima
+kramdown:
+  syntax_highlighter: rouge
