@@ -1,5 +1,3 @@
-# Title here
-
-## Android
+# Android
 
 * [Android Virual Device](./android/emulator.md)

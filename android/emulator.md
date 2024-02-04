@@ -1,4 +1,6 @@
-# Configure Android Virtual Device without Android Studio on macOS
+# Android Virtual Device without Android Studio
+
+Guide for Android Virtual Device(AVD) configuration on macOS using commandline. 
 
 ## Installation
 
